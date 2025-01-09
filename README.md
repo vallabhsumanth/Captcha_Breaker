@@ -1,4 +1,6 @@
-### Model Description: Captcha Solver Using CNN with L2 Regularization
+## Model Description:
+## Captcha Solver Using CNN with L2 Regularization
+
 The CaptchaSolver model is built to break captchas using deep learning techniques, specifically employing Convolutional Neural Networks (CNNs) with L2 regularization to accurately recognize and classify captcha characters. This model is designed to detect and solve captcha images by training on a dataset of labeled captcha images, and then using the trained model to predict new captchas.
 
 # 1. Model Architecture
